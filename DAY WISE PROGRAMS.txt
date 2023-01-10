@@ -10,3 +10,12 @@ DAY 1 [9/1/2023]
 => odd even
 => piechart
 => scatterplot
+
+DAY 2 [10/1/2023]
+-----------------
+=> Zscore
+=> chisq test
+=> decimalscaling
+=> linear regression
+=> mean median mode
+=> minmax

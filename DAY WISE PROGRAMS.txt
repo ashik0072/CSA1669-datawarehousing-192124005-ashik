@@ -1,0 +1,12 @@
+DAY 1 [9/1/2023]
+----------------
+=> operations
+=> odd even
+=> fibonacci
+=> armstong
+=> datachart
+=> factorial
+=> histogram
+=> odd even
+=> piechart
+=> scatterplot

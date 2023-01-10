@@ -1,7 +1,0 @@
-data=read.csv("travel-times.csv")
-mean1=mean(data$MovingTime)
-mode1=mode(data$AvgSpeed)
-median1=median(data$AvgSpeed)
-summary(data$AvgMovingSpeed)
-iqr1=IQR(data$Distance)
-View(mean1,mode1,median1,iqr1)

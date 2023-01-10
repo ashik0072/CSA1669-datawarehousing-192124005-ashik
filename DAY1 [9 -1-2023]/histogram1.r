@@ -1,0 +1,7 @@
+workers<-c("ashik","ayush","obi","sooriya")
+salary<-c(1200,1300,1400,1500)
+df<-data.frame(workers,salary)
+View(df)
+library(plotrix)
+hist(salary)
+View(salary)

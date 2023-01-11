@@ -19,3 +19,12 @@ DAY 2 [10/1/2023]
 => linear regression
 => mean median mode
 => minmax
+
+DAY 3 [11/1/2023]
+-----------------
+=> creating a salary arff file
+=> preprocess output
+=> classify output
+=> cluster output
+=> select attribute output
+=> associate output

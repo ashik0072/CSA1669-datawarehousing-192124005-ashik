@@ -1,0 +1,8 @@
+companies<-c("audi","toyota","maruthi","suzuki")
+carsreleased<-c(100,1300,1000,1500)
+yearofrelease<-c(1990,2000,1995,2023)
+df<-data.frame(companies,carsreleased,yearofrelease)
+View(df)
+write.csv(df,"mtcars.csv")
+hist(carsreleased)
+scatter.smooth(distance,averagespeed)
